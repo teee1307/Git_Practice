@@ -1,1 +1,1 @@
-** This is a repository for practicing adv git commands **
+**This is a repository for practicing adv git commands**
